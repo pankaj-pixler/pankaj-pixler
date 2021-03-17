@@ -1,0 +1,6 @@
+*{
+    box-sizing: border-box;
+}
+.child_div p{
+    color: brown;
+}
